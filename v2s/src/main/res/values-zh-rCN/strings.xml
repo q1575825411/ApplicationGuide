@@ -1,0 +1,70 @@
+<!DOCTYPE resources [
+    <!ENTITY model "V2s">
+    ]>
+<resources>
+    <string name="app_name">使用指南</string>
+
+
+    <string name="hotline">咨询电话：400&#8211;6666&#8211;509</string>
+    <string name="welcome">欢迎使⽤</string>
+    <string name="detail">以下介绍能够帮助你快速熟悉，\n并更加⾼效地使⽤您的%1$s;</string>
+
+
+    <string name="install_sim">安装SIM卡</string>
+    <string name="install_psam">安装PSAM卡</string>
+    <string name="install_print_paper">安装打印纸</string>
+    <string name="force_shutdown">强制重启</string>
+    <string name="screenshot">如何截屏</string>
+    <string name="bluetooth_print">蓝牙打印设置</string>
+    <string name="maintenance">电池维护</string>
+
+
+    <string name="install_sim_01_opera">关机</string>
+    <string name="install_sim_01_detail_opera">按压机身右侧的电源按钮，\n2秒后点击“关机”即可使设备关机</string>
+    <string name="install_sim_02_opera">开启后盖</string>
+    <string name="install_sim_02_detail_opera">找到“缺口”位置，向上扣起，打开后盖</string>
+    <string name="install_sim_03_opera">选择SIM卡</string>
+    <string name="install_sim_03_detail_opera">选择设备对应的SIM卡，\n或将SIM卡裁剪为对应规格</string>
+    <string name="install_sim_04_opera">将SIM卡装⼊卡槽</string>
+    <string name="install_sim_04_detail_opera">根据后盖内的插卡示意位置，以及插卡⽅向，将SIM卡推⼊卡槽内，完成SIM卡的安装</string>
+
+    <string name="install_psam_opera">将PSAM卡装⼊卡槽</string>
+    <string name="install_psam_detail_opera">根据后盖内的插卡示意位置，将PSAM卡宽头朝里，金属面朝下推入卡槽内，完成PSAM卡的安装</string>
+
+
+    <string name="install_print_paper_detail_opera">如图开启纸仓盖，\n放入打印纸并拉出部分纸张至切口外，\n关闭仓盖即可完成安装</string>
+
+
+    <string name="force_shutdown_opera">强制重启</string>
+    <string name="force_shutdown_detail_opera">按住电源键11秒强制关闭电源后，再次⻓按电源键即可开机</string>
+
+
+    <string name="battery_maintenance">电池维护</string>
+    <string name="battery_maintenance_opera">电池与屏幕维护</string>
+    <string name="battery_maintenance_detail_opera">当设备长时间存放不用时，请充满电以避免电量耗光损坏电池；同时保持屏幕干净，以保证触碰灵敏</string>
+
+    <string name="print_maintenance_opera">打印头维护</string>
+    <string name="print_maintenance_detail_opera">打印出现模糊时，可用棉签蘸酒精去除陶瓷片上的污垢；定期用软毛刷清理纸仓内的纸屑，特别是滚轴、切纸刀、传感器上的灰尘</string>
+
+    <string name="screenshot_opera_01">快捷键截屏</string>
+    <string name="screenshot_detail_opera_01">通过手势下拉状态栏，\n点击快捷菜单中的截屏按钮即可</string>
+    <string name="screenshot_opera_02">物理按键截屏</string>
+    <string name="screenshot_detail_opera_02">同时按电源键和音量下键超过一秒即可截屏(注:如果设置了音量键自定义而无法截屏，可到设置中关闭该功能)</string>
+
+    <string name="bluetooth_opera_01">打开系统设置</string>
+    <string name="bluetooth_opera_02">设置已连接的设备</string>
+    <string name="bluetooth_opera_03">设置连接偏好设置</string>
+    <string name="bluetooth_opera_04">设置蓝牙</string>
+    <string name="bluetooth_opera_05">开启蓝⽛</string>
+    <string name="bluetooth_opera_06">进⼊业务应⽤</string>
+    <string name="bluetooth_opera_07">连接打印机</string>
+    <string name="bluetooth_opera_08">确认连接</string>
+    <string name="bluetooth_detail_opera_01">在主屏幕上找到“设置”，点击打开</string>
+    <string name="bluetooth_detail_opera_02">在设置列表中找到“已连接的设备”,\n点击进入已连接的设备页面</string>
+    <string name="bluetooth_detail_opera_03">在已连接的设备列表中找到“连接偏好设置”,\n点击进入连接偏好设置页面</string>
+    <string name="bluetooth_detail_opera_04">在连接偏好设置列表中找到“蓝⽛”，\n点击进⼊蓝⽛设置页面</string>
+    <string name="bluetooth_detail_opera_05">点击页面上⽅蓝⽛开关，开启设备的\n蓝⽛连接，确认蓝⽛处于可连接状态</string>
+    <string name="bluetooth_detail_opera_06">回到主屏幕，打开需使⽤蓝⽛打印的\n业务应⽤APP</string>
+    <string name="bluetooth_detail_opera_07">找到打印设置，点击连接或添加打印机</string>
+    <string name="bluetooth_detail_opera_08">确认该打印设备已连接，完成设置</string>
+</resources>

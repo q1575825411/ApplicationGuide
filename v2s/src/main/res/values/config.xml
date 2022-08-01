@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <drawable name="cover_bg">@drawable/cover_bg</drawable>
+    <bool name="support_print_service">true</bool>
+    <integer name="print_service_install_paper_position">2</integer>
+
+
+    <!-- 首页items  -->
+    <array name="home_items">
+        <item>@array/home_item_install_sim</item>
+        <item>@array/home_item_install_psam</item>
+        <item>@array/home_item_install_print_paper</item>
+        <item>@array/home_item_force_shutdown</item>
+        <item>@array/home_item_maintenance</item>
+        <item>@array/home_item_screenshot</item>
+        <item>@array/home_item_bluetooth_print</item>
+    </array>
+
+    <array name="home_items2">
+        <item>@array/home_item_install_sim2</item>
+        <item>@array/home_item_install_psam2</item>
+        <item>@array/home_item_install_print_paper</item>
+        <item>@array/home_item_force_shutdown</item>
+        <item>@array/home_item_maintenance</item>
+        <item>@array/home_item_screenshot</item>
+        <item>@array/home_item_bluetooth_print</item>
+    </array>
+
+
+
+</resources>

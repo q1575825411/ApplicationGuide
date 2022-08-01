@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="model" translatable="false"><![CDATA[<b><font>T2</font></b>]]></string>
+    <string name="welcome">User Guide</string>
+
+    <string name="install_paper">Install printing paper</string>
+    <string name="solve_system_crash">System crash</string>
+    <string name="hardware_expansion">Connections and Expansion</string>
+    <string name="solve_paper_problem">Paper jam</string>
+
+    <string name="install_paper_detail">Use the handle on the right side of device base to open the printing paper compartment. Pull the paper (80mm) end upward and put the printing paper into the compartment. Pull the paper end out of the paper slot and close the compartment with both hands. </string>
+    <string name="solve_system_crash_detail">Press and hold the power button for 11s to power off and shut down the device and press and hold for 2s to restart the device.</string>
+    <string name="hardware_expansion_detail">Ports for connections and expansion are located under the plastic cover on the device back. Please gently uncover from the bottom notch (as shown) to access the following ports (from left to right):
+①Power port ②Cash drawer port ③Ethernet port ④Two USB2.0 ports ⑤A serial port (for some electronic scales) ⑥Two USB2.0 ports ⑦3.5mm headphone jack</string>
+    <string name="solve_paper_problem_detail">Open the cover of paper cutter shown on the pic and rotate the gear upward until the cutter repair prompt pops up or the paper compartment cover pops out.</string>
+</resources>

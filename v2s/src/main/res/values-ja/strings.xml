@@ -1,0 +1,70 @@
+<!DOCTYPE resources [
+    <!ENTITY model "V2s">
+    ]>
+<resources>
+    <string name="app_name">使用ガイド</string>
+
+    <string name="hotline">問い合わせ電話：400&#8211;6666&#8211;509</string>
+    <string name="welcome">どうぞご利用ください</string>
+    <string name="detail">以下の説明は、あなたの&amp;モデルを\nより効果的に使用するために、迅速に使いこなすことができる。</string>
+
+
+    <string name="install_sim">SIMカードを取り付ける</string>
+    <string name="install_psam">PSAMカードを取り付ける</string>
+    <string name="install_print_paper">ロール紙をセット </string>
+    <string name="force_shutdown">強制的に電源を切る</string>
+    <string name="screenshot">スクリーンショットの方法</string>
+    <string name="bluetooth_print">ブルートゥース印刷の設定</string>
+    <string name="maintenance">電池のメンテナンス</string>
+
+
+    <string name="install_print_paper_detail_opera">図のように用紙入れの蓋を開いて、印刷用紙をその中に入れて切り口の外に引き出して、\n用紙入れの蓋を閉じてると、取り付けが完了する。</string>
+
+
+    <string name="install_sim_01_opera">電源を切る</string>
+    <string name="install_sim_01_detail_opera">胴体上部の電源ボタンを押し、\n2秒後、画面をクリックしてシャットダウンし、デバイスをシャットダウンします</string>
+    <string name="install_sim_02_opera">裏表紙を開きます</string>
+    <string name="install_sim_02_detail_opera">「ノッチ」の位置を見つけてバックルを締め、裏表紙を開きます</string>
+    <string name="install_sim_03_opera">SIMカードを選択する</string>
+    <string name="install_sim_03_detail_opera">設備に対応するSIMカードを選択するか、\nまたはSIMカードを対応する仕様に切り抜いてください。</string>
+    <string name="install_sim_04_opera">SIMカードをカードスロットに入れる</string>
+    <string name="install_sim_04_detail_opera">根背面カバー内のカード入れの概略位置、およびカード入れの向きに応じて、SIMカードをカードスロット内に押し込んで、SIMカードの装着を完了する。</string>
+
+    <string name="install_psam_opera">PSAM カードをカードスロットに挿入します</string>
+    <string name="install_psam_detail_opera">背面カバーのカードの指示された位置に従って、カードの広い方の端と金属面を下にしてPSAMカードをスロットに押し込み、PSAMの取り付けを完了します。カード。</string>
+
+    <string name="force_shutdown_opera">強制的に電源を切る</string>
+    <string name="force_shutdown_detail_opera">電源キー11秒を押して電源を強制的にオフにした後、\n電源キーを再び長く押すと電源が入る。</string>
+
+
+
+    <string name="battery_maintenance">電池のメンテナンス</string>
+    <string name="battery_maintenance_opera">電池とスクリーンのメンテナンス</string>
+    <string name="battery_maintenance_detail_opera">設備が長時間保存されて使用されない場合は、電池の電量がゼロになることによって電池を破損するのを防ぐために充電を十分にしてください。\nタッチレスポンスが高いことを保証するために、同時にスクリーンを清潔に保ちます。</string>
+
+    <string name="print_maintenance_opera">印刷ヘッドのメンテナンス</string>
+    <string name="print_maintenance_detail_opera">印刷がぼやけた場合は、綿棒にアルコールをつけて、セラミック片の汚れを落とすことができる。定期的に軟毛ブラシを使って紙入れの中の紙屑、特にローラー、カッター、センサーのほこりをきれいにすることができる。</string>
+
+
+    <string name="screenshot_opera_01">スクリーンショットの方法</string>
+    <string name="screenshot_detail_opera_01">ジェスチャーによってステータスバーを下げて、\nショートカットメニューのスクリーンショットボタンをクリックしてください。</string>
+    <string name="screenshot_opera_02">物理ボタンのスクリーンショット</string>
+    <string name="screenshot_detail_opera_02">電源キーと音量の下キーを同時に押すと、1秒以上でスクリーンショットができる（注：ボリュームキーカスタマイズが設定されていてスクリーンショットができない場合は、設定でこの機能をオフにすることができる）。</string>
+
+    <string name="bluetooth_opera_01">システム設定を開く</string>
+    <string name="bluetooth_opera_02">接続されたデバイスをセットアップする</string>
+    <string name="bluetooth_opera_03">接続設定を設定する</string>
+    <string name="bluetooth_opera_04">ブルートゥースを設定する</string>
+    <string name="bluetooth_opera_05">ブルートゥースをオンにする</string>
+    <string name="bluetooth_opera_06">業務応用に入る</string>
+    <string name="bluetooth_opera_07">プリンターと接続する</string>
+    <string name="bluetooth_opera_08">接続を確認する</string>
+    <string name="bluetooth_detail_opera_01">メインスクリーンで「設定」を見つけ、\nクリックして開く</string>
+    <string name="bluetooth_detail_opera_02">設定リストで「接続されたデバイス」を見つけ、クリックして接続されたデバイスのページに入ります</string>
+    <string name="bluetooth_detail_opera_03">接続されているデバイスのリストで[接続設定]を見つけ、クリックして[接続設定]ページに入ります</string>
+    <string name="bluetooth_detail_opera_04">設定リストで「ブルートゥース」を見つけ、\nクリックして「ブルートゥース設定」ページに入る。</string>
+    <string name="bluetooth_detail_opera_05">点ページの上部にあるブルートゥーススイッチをクリックして、設備のブルートゥース接続をオンにする。\n ブルートゥースが接続可能であることを確認する。</string>
+    <string name="bluetooth_detail_opera_06">メインスクリーンに戻り、ブルートゥース印刷を使用した業務アプリケーションのAPPを開く。</string>
+    <string name="bluetooth_detail_opera_07">印刷設定を見つけて、接続またはプリンタの追加をクリックする</string>
+    <string name="bluetooth_detail_opera_08">当該印刷設備が接続されていることを確認し、設定を完了する</string>
+</resources>

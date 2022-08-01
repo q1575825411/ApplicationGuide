@@ -1,0 +1,72 @@
+<!DOCTYPE resources [
+    <!ENTITY model "V2s">
+    ]>
+<resources>
+    <string name="app_name">Instruction</string>
+
+    <string name="model" translatable="false"><![CDATA[<b><font>L2</font></b> k]]></string>
+    <string name="hotline">Support Tel:400&#8211;6666&#8211;509</string>
+    <string name="welcome">welcome</string>
+    <string name="detail">Get started with %1$s; in just a few steps</string>
+
+
+    <string name="install_sim">Install SIM</string>
+    <string name="install_psam">Install PSAM</string>
+    <string name="install_print_paper">Install print paper</string>
+    <string name="force_shutdown">Force restart</string>
+    <string name="screenshot">Screenshots</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="bluetooth_print">Bluetooth Printing</string>
+
+
+
+    <string name="install_sim_01_opera">Power Off</string>
+    <string name="install_sim_01_detail_opera">Press the power button on the top of the fuselage, after 2 seconds, click the screen to shut down to shut down the device</string>
+    <string name="install_sim_02_opera">Open the back cover</string>
+    <string name="install_sim_02_detail_opera">Find the "notch" position, buckle up, and open the back cover</string>
+    <string name="install_sim_03_opera">Choose a SIM card</string>
+    <string name="install_sim_03_detail_opera">Select the correct SIM card of the device or tailor the SIM card to the corresponding specification</string>
+    <string name="install_sim_04_opera">Load SIM card into card slot</string>
+    <string name="install_sim_04_detail_opera">According to the schematic position of SIM card in the back cover, push SIM card into the slot to complete the installation</string>
+
+    <string name="install_psam_opera">Insert the PASM card into the card slot</string>
+    <string name="install_psam_detail_opera"> According to the indicated position of the card in the back cover, push the PSAM card into the slot with the wide end facing Li and the metal surface down to complete the installation of the PSAM card</string>
+
+    <string name="install_print_paper_operation" translatable="false">""</string>
+    <string name="install_print_paper_detail_opera">As shown in figure, open the cover of the paper bin, put in the printing paper and pull out part of the paper to the outside of the incision, close the cover to complete the installation</string>
+
+    <string name="force_shutdown_opera">Mandatory shutdown</string>
+    <string name="force_shutdown_detail_opera">Press the Power Key for 11 seconds to power off,and boot again.</string>
+
+
+    <string name="battery_maintenance">Maintenance</string>
+    <string name="battery_maintenance_opera">Battery and screen maintenance</string>
+    <string name="battery_maintenance_detail_opera">When the device is not in use for a long time, please fill it with electricity to avoid battery damage. And keep the screen clean</string>
+
+    <string name="print_maintenance_opera">Print head maintenance</string>
+    <string name="print_maintenance_detail_opera">1,If the printing appears fuzzy,you can use the cotton swab stick to remove the dirt from the ceramic piece.\n2,Regulary use a soft brush to clean paper bin,especially dust roller,paper cutter,sensor.</string>
+
+
+    <string name="screenshot_opera_01">Screenshot by External Buttons</string>
+    <string name="screenshot_detail_opera_01">Touch the screen to pull down the status bar, then click the screen shot button in the shortcut menu.</string>
+    <string name="screenshot_opera_02">Screenshot by Shortcut</string>
+    <string name="screenshot_detail_opera_02">Simultaneously press the power button and volume down button.\n(If it is still not available, check to see if the \'sets-custom volume\' button is turned off.)</string>
+
+    <string name="bluetooth_opera_01">Open ‘Settings’</string>
+    <string name="bluetooth_opera_02">Set up connected devices</string>
+    <string name="bluetooth_opera_03">Set connection preferences</string>
+    <string name="bluetooth_opera_04">Set bluetooth</string>
+    <string name="bluetooth_opera_05">Open the bluetooth</string>
+    <string name="bluetooth_opera_06">Open your APP</string>
+    <string name="bluetooth_opera_07">Connect printer</string>
+    <string name="bluetooth_opera_08">Confirm connection</string>
+    <string name="bluetooth_detail_opera_01">Find Settings on the home screen and click</string>
+    <string name="bluetooth_detail_opera_02">Find "Connected devices" in the settings list, click to enter the connected devices page</string>
+    <string name="bluetooth_detail_opera_03">Find "Connection Preferences" in the list of connected devices, click to enter the Connection Preferences page</string>
+    <string name="bluetooth_detail_opera_04">Find \"bluetooth\" in the Settings list and click to enter the bluetooth page</string>
+    <string name="bluetooth_detail_opera_05">Click the switch to open the bluetooth,and confirm that the bluetooth is in a connectable state</string>
+    <string name="bluetooth_detail_opera_06">Back to desktop and open your APP</string>
+    <string name="bluetooth_detail_opera_07">Find Print Setting,connect or add printer</string>
+    <string name="bluetooth_detail_opera_08">Confirm this printer had connected</string>
+
+</resources>

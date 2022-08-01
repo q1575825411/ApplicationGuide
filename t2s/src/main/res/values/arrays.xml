@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="home_item_install_paper">
+        <item name="title">@string/install_paper</item>
+        <item name="icon">@null</item>
+        <item name="detail_array">@string/install_paper_detail</item>
+        <item name="media_raw">@raw/install_paper</item>
+    </array>
+
+
+    <array name="home_item_solve_system_crash">
+        <item name="title">@string/solve_system_crash</item>
+        <item name="icon">@drawable/ic_force_shutdown</item>
+        <item name="detail_array">@string/solve_system_crash_detail</item>
+        <item name="media_raw">@raw/solve_system_crash</item>
+    </array>
+
+    <array name="home_item_hardware_expansion">
+        <item name="title">@string/hardware_expansion</item>
+        <item name="icon">@drawable/ic_battery_maintenance</item>
+        <item name="detail_array">@string/hardware_expansion_detail</item>
+        <item name="media_raw">@raw/hardware_expansion</item>
+    </array>
+
+    <array name="home_item_solve_paper_problem">
+        <item name="title">@string/solve_paper_problem</item>
+        <item name="icon">@drawable/ic_screenshot</item>
+        <item name="detail_array">@string/solve_paper_problem_detail</item>
+        <item name="media_raw">@raw/solve_paper_problem</item>
+    </array>
+
+</resources>

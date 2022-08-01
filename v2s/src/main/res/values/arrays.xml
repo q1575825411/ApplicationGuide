@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="home_item_install_sim">
+        <item name="title">@string/install_sim</item>
+        <item name="icon">@drawable/ic_install_sim</item>
+        <item name="detail_array">@array/install_sim</item>
+    </array>
+
+    <array name="home_item_install_sim2">
+        <item name="title">@string/install_sim</item>
+        <item name="icon">@drawable/ic_install_sim</item>
+        <item name="detail_array">@array/install_sim2</item>
+    </array>
+
+
+    <array name="home_item_install_psam">
+        <item name="title">@string/install_psam</item>
+        <item name="icon">@drawable/ic_install_sim</item>
+        <item name="detail_array">@array/install_psam</item>
+    </array>
+
+    <array name="home_item_install_psam2">
+        <item name="title">@string/install_psam</item>
+        <item name="icon">@drawable/ic_install_sim</item>
+        <item name="detail_array">@array/install_psam2</item>
+    </array>
+
+    <array name="home_item_install_print_paper">
+        <item name="title">@string/install_print_paper</item>
+        <item name="icon">@drawable/ic_install</item>
+        <item name="detail_array">@array/install_print_paper</item>
+    </array>
+
+    <array name="home_item_force_shutdown">
+        <item name="title">@string/force_shutdown</item>
+        <item name="icon">@drawable/ic_force_shutdown</item>
+        <item name="detail_array">@array/shutdown</item>
+    </array>
+
+    <array name="home_item_maintenance">
+        <item name="title">@string/maintenance</item>
+        <item name="icon">@drawable/ic_battery_maintenance</item>
+        <item name="detail_array">@array/maintenance</item>
+    </array>
+
+    <array name="home_item_screenshot">
+        <item name="title">@string/screenshot</item>
+        <item name="icon">@drawable/ic_screenshot</item>
+        <item name="detail_array">@array/screenshot</item>
+    </array>
+
+    <array name="home_item_bluetooth_print">
+        <item name="title">@string/bluetooth_print</item>
+        <item name="icon">@drawable/ic_bluetooth_print</item>
+        <item name="detail_array">@array/bluetooth_print</item>
+    </array>
+
+
+    <!--<string name="install_sim_detail_json">install_sim.json</string>-->
+
+    <!-- 安装 SIM 卡  -->
+    <array name="install_sim">
+        <item>@array/sim_card_page_1</item>
+        <item>@array/sim_card_page_2</item>
+        <item>@array/sim_card_page_3</item>
+        <item>@array/sim_card_page_4</item>
+    </array>
+
+    <!-- 安装 PSIM 卡  -->
+    <array name="install_psam">
+        <item>@array/sim_card_page_1</item>
+        <item>@array/sim_card_page_2</item>
+        <item>@array/psam_card_page_3</item>
+    </array>
+
+    <!-- 安装 PSIM 卡  -->
+    <array name="install_psam2">
+        <item>@array/sim_card_page_1</item>
+        <item>@array/sim_card_page_2_single</item>
+        <item>@array/psam_card_page_3_single</item>
+    </array>
+
+    <!-- 安装 SIM 卡  -->
+    <array name="install_sim2">
+        <item>@array/sim_card_page_1</item>
+        <item>@array/sim_card_page_2_single</item>
+        <item>@array/sim_card_page_3</item>
+        <item>@array/sim_card_page_4_single</item>
+    </array>
+
+
+    <!-- 安装打印纸  -->
+    <array name="install_print_paper">
+        <item>@array/install_print_paper_page_1</item>
+    </array>
+
+    <!-- 强制关机  -->
+    <array name="shutdown">
+        <item>@array/shutdown_page_1</item>
+    </array>
+
+    <!-- 设备维护  -->
+
+    <array name="maintenance">
+        <item>@array/maintenance_page_1</item>
+        <item>@array/maintenance_page_2</item>
+    </array>
+
+    <!-- 蓝牙打印设置  -->
+    <array name="screenshot">
+        <item>@array/screenshot_page_1</item>
+        <item>@array/screenshot_page_2</item>
+    </array>
+
+    <!-- 蓝牙打印设置  -->
+    <array name="bluetooth_print">
+        <item>@array/bluetooth_print_page_1</item>
+        <item>@array/bluetooth_print_page_2</item>
+        <item>@array/bluetooth_print_page_3</item>
+        <item>@array/bluetooth_print_page_4</item>
+        <item>@array/bluetooth_print_page_5</item>
+        <item>@array/bluetooth_print_page_6</item>
+        <item>@array/bluetooth_print_page_7</item>
+        <item>@array/bluetooth_print_page_8</item>
+
+    </array>
+
+    <!-- 安装 SIM 卡  -->
+
+
+    <array name="sim_card_page_1">
+        <item name="resType">1</item>
+        <item name="resID">@drawable/shutdown</item>
+        <item name="operation">@string/install_sim_01_opera</item>
+        <item name="detailOperation">@string/install_sim_01_detail_opera</item>
+    </array>
+
+    <array name="sim_card_page_2">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_sim_02</item>
+        <item name="operation">@string/install_sim_02_opera</item>
+        <item name="detailOperation">@string/install_sim_02_detail_opera</item>
+    </array>
+
+    <array name="sim_card_page_2_single">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_sim_02_single</item>
+        <item name="operation">@string/install_sim_02_opera</item>
+        <item name="detailOperation">@string/install_sim_02_detail_opera</item>
+    </array>
+
+    <array name="sim_card_page_3">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/install_sim_03</item>
+        <item name="operation">@string/install_sim_03_opera</item>
+        <item name="detailOperation">@string/install_sim_03_detail_opera</item>
+    </array>
+
+    <array name="sim_card_page_4">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_sim_04</item>
+        <item name="operation">@string/install_sim_04_opera</item>
+        <item name="detailOperation">@string/install_sim_04_detail_opera</item>
+    </array>
+
+
+
+
+    <array name="sim_card_page_4_single">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_sim_04_single</item>
+        <item name="operation">@string/install_sim_04_opera</item>
+        <item name="detailOperation">@string/install_sim_04_detail_opera</item>
+    </array>
+
+    <array name="psam_card_page_3">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_psam</item>
+        <item name="operation">@string/install_psam_opera</item>
+        <item name="detailOperation">@string/install_psam_detail_opera</item>
+    </array>
+
+    <array name="psam_card_page_3_single">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_psam_single</item>
+        <item name="operation">@string/install_psam_opera</item>
+        <item name="detailOperation">@string/install_psam_detail_opera</item>
+    </array>
+
+    <!-- 安装打印纸  -->
+
+
+    <array name="install_print_paper_page_1">
+        <item name="resType" format="integer">2</item>
+        <item name="resID" format="integer">@raw/video_install_print_paper</item>
+        <item name="operation">@string/install_print_paper_operation</item>
+        <item name="detailOperation">@string/install_print_paper_detail_opera</item>
+<!--        <item name="thumbnail">@drawable/install_print_paper</item>-->
+    </array>
+
+    <!-- 强制关机  -->
+
+    <array name="shutdown_page_1">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/shutdown</item>
+        <item name="operation">@string/force_shutdown_opera</item>
+        <item name="detailOperation">@string/force_shutdown_detail_opera</item>
+    </array>
+
+    <!-- 设备维护  -->
+
+
+
+
+    <array name="maintenance_page_1">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/battery_maintenance</item>
+        <item name="operation">@string/battery_maintenance_opera</item>
+        <item name="detailOperation">@string/battery_maintenance_detail_opera</item>
+    </array>
+
+    <array name="maintenance_page_2">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/print_maintenance</item>
+        <item name="operation">@string/print_maintenance_opera</item>
+        <item name="detailOperation">@string/print_maintenance_detail_opera</item>
+    </array>
+
+
+
+    <!-- 蓝牙打印设置  -->
+
+
+    <array name="screenshot_page_1">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/screenshot_quick</item>
+        <item name="operation">@string/screenshot_opera_01</item>
+        <item name="detailOperation">@string/screenshot_detail_opera_01</item>
+    </array>
+
+    <array name="screenshot_page_2">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/screenshot</item>
+        <item name="operation">@string/screenshot_opera_02</item>
+        <item name="detailOperation">@string/screenshot_detail_opera_02</item>
+    </array>
+
+    <!-- 蓝牙打印设置  -->
+
+
+    <array name="bluetooth_print_page_1">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_01</item>
+        <item name="operation">@string/bluetooth_opera_01</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_01</item>
+    </array>
+
+
+    <array name="bluetooth_print_page_2">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_02</item>
+        <item name="operation">@string/bluetooth_opera_02</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_02</item>
+    </array>
+
+    <array name="bluetooth_print_page_3">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_03</item>
+        <item name="operation">@string/bluetooth_opera_03</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_03</item>
+    </array>
+
+    <array name="bluetooth_print_page_4">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_04</item>
+        <item name="operation">@string/bluetooth_opera_04</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_04</item>
+    </array>
+
+    <array name="bluetooth_print_page_5">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_05</item>
+        <item name="operation">@string/bluetooth_opera_05</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_05</item>
+    </array>
+    <array name="bluetooth_print_page_6">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_06</item>
+        <item name="operation">@string/bluetooth_opera_06</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_06</item>
+    </array>
+
+    <array name="bluetooth_print_page_7">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_07</item>
+        <item name="operation">@string/bluetooth_opera_07</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_07</item>
+    </array>
+
+    <array name="bluetooth_print_page_8">
+        <item name="resType" format="integer">1</item>
+        <item name="resID" format="integer">@drawable/bluetooth_print_08</item>
+        <item name="operation">@string/bluetooth_opera_08</item>
+        <item name="detailOperation">@string/bluetooth_detail_opera_08</item>
+    </array>
+
+</resources>

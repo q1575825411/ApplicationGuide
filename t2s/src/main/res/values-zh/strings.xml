@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="welcome">使用指南</string>
+
+    <string name="install_paper">安装打印纸</string>
+    <string name="solve_system_crash">死机怎么办</string>
+    <string name="hardware_expansion">硬件拓展</string>
+    <string name="solve_paper_problem">卡纸怎么办</string>
+
+    <string name="install_paper_detail">从机器底座右侧找到把⼿，打开纸仓，将打印纸（80mm）向上拉出放⼊纸仓，拉出部分纸张⾄切⼝外，双⼿关闭纸仓，完成。
+    </string>
+    <string name="solve_system_crash_detail">⻓按电源键11s，设备将断电关机。⻓按2s，重启设备。</string>
+    <string name="hardware_expansion_detail">扩展接⼝位于背部机身塑料壳内，可从底下缺⼝轻轻打开（如图）；共包含以下接⼝（从左⾄右）：\n①电源 ②钱箱 ③⽹线 ④2个USB2.0 ⑤串⼝（可⽤于部分电⼦秤） ⑥2个USB2.0 ⑦3.5mm⽿机</string>
+    <string name="solve_paper_problem_detail">找到图示位置打开打印机⼑盖，向上拨动⻮轮，直到弹出切⼑修复提示或者弹出纸仓盖。</string>
+
+
+</resources>

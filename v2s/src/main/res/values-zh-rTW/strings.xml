@@ -1,0 +1,63 @@
+<!DOCTYPE resources [
+    <!ENTITY model "V2s">
+    ]>
+<resources>
+    <string name="app_name">使用指南</string>
+
+    <string name="hotline">咨詢電話：400&#8211;6666&#8211;509</string>
+    <string name="welcome">欢迎使⽤</string>
+    <string name="detail">以下介绍能够帮助你快速熟悉，\n并更加⾼效地使⽤您的%1$s;</string>
+
+
+    <string name="install_sim">安装SIM卡</string>
+    <string name="install_psam">安装PSAM卡</string>
+    <string name="force_shutdown">强制重启</string>
+    <string name="screenshot">如何截屏</string>
+    <string name="bluetooth_print">藍牙打印設置</string>
+    <string name="maintenance">电池维护</string>
+
+
+    <string name="install_sim_01_opera">關機</string>
+    <string name="install_sim_01_detail_opera">按壓機身上端的電源按鈕，\n2秒後點擊屏幕關機可使設備關機</string>
+    <string name="install_sim_02_opera">開啟後蓋</string>
+    <string name="install_sim_02_detail_opera">超逆時針方向旋轉卡扣</string>
+    <string name="install_sim_03_opera">選擇SIM卡</string>
+    <string name="install_sim_03_detail_opera">選擇設備對應的SIM卡，\n或將SIM卡裁剪為對應規格</string>
+    <string name="install_sim_04_opera">將SIM卡裝⼊卡槽</string>
+    <string name="install_sim_04_detail_opera">根據後蓋內的插卡示意位置，以及插卡⽅向，\n將SIM卡推⼊卡槽內，完成SIM卡的安裝</string>
+
+    <string name="install_psam_opera">將PSAM卡裝⼊卡槽</string>
+    <string name="install_psam_detail_opera">根據後蓋內的插卡示意位置,將PSAM卡寬頭朝裏，金屬面朝下推入卡槽內，完成PSIM卡的安裝</string>
+
+    <string name="force_shutdown_opera">强制关机</string>
+    <string name="force_shutdown_detail_opera">按住电源键11秒强制关闭电源后，\n再次⻓按电源键即可开机</string>
+
+
+    <string name="battery_maintenance">电池维护</string>
+    <string name="battery_maintenance_opera">电池与屏幕维护</string>
+    <string name="battery_maintenance_detail_opera">当设备长时间存放不用时，\n请充满电以避免电量耗光损坏电池；\n同时保持屏幕干净，以保证触碰灵敏</string>
+
+    <string name="screenshot_opera_01">快捷鍵截屏</string>
+    <string name="screenshot_detail_opera_01">通過手勢下拉狀態欄，\n點擊快捷菜單中的截屏按鈕即可</string>
+    <string name="screenshot_opera_02">物理按鍵截屏</string>
+    <string name="screenshot_detail_opera_02">同時按電源鍵和音量鍵超過一秒即可截屏\n(注:如果設置了音量鍵自定義而無法截屏，\n可到設置中關閉該功能)</string>
+
+    <string name="bluetooth_opera_01">打開系統設置</string>
+    <string name="bluetooth_opera_02">設置已連接的設備</string>
+    <string name="bluetooth_opera_03">設置連接偏好設置</string>
+    <string name="bluetooth_opera_04">設置藍⽛</string>
+    <string name="bluetooth_opera_05">開啟藍⽛</string>
+    <string name="bluetooth_opera_06">進⼊業務應⽤</string>
+    <string name="bluetooth_opera_07">連接打印機</string>
+    <string name="bluetooth_opera_08">確認連接</string>
+    <string name="bluetooth_detail_opera_01">在主屏幕上找到“設置”，\n點擊打開</string>
+    <string name="bluetooth_detail_opera_02">在設置列表中找到“已連接的設備”，\n點擊進入已連接的設備頁面</string>
+    <string name="bluetooth_detail_opera_03">在已連接的設備列表中找到“連接偏好設置”，\n點擊進入連接偏好設置頁面</string>
+    <string name="bluetooth_detail_opera_04">在設置列表中找到“藍⽛”，\n點擊進⼊藍⽛設置頁面</string>
+    <string name="bluetooth_detail_opera_05">點擊頁面上⽅藍⽛開關，\n開啟設備的藍⽛連接，\n確認藍⽛處於可連接狀態</string>
+    <string name="bluetooth_detail_opera_06">回到主屏幕，打開需使⽤藍⽛打印的\n業務應⽤APP</string>
+    <string name="bluetooth_detail_opera_07">找到打印設置，點擊連接或添加打印機</string>
+    <string name="bluetooth_detail_opera_08">確認該打印設備已連接，完成設置</string>
+</resources>
+
+

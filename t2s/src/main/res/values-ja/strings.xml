@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">使用ガイド</string>
+    <string name="welcome">使用ガイド</string>
+
+    <string name="install_paper">印刷用紙を取り付ける</string>
+    <string name="solve_system_crash">フリーズに対する応対方法</string>
+    <string name="hardware_expansion">ハードウェア拡張</string>
+    <string name="solve_paper_problem">紙詰まりに対する応対方法</string>
+
+    <string name="install_paper_detail">機械のスタンドの右側にあるハンドルを探して、紙入れを開けて、印刷用紙（80 mm）を上に引き出して纸入れに入って用紙の一部を引き出して、ダブルクリックによって纸入れを閉じて、それで完成する。</string>
+    <string name="solve_system_crash_detail">電源キーを11 sに長く押すと、電源がオフになります。短く２ｓに押すと、設備を再起動します。</string>
+    <string name="hardware_expansion_detail">扩拡張コネクタは背面にあり、左から右に次のインタフェースを備えている:\n ①電源②お金箱③ケーブル④２つ USB 2.0 ⑤シリアル（部分電子秤に応用される）⑥２つUSB 2.0 ⑦3.5 mmホスト⑧マイクロSDメモリカード⑨マイクロUSB</string>
+    <string name="solve_paper_problem_detail">図の位置を探して、プリンタの蓋を開き、ローラーを上に回して、スライスが出てくるまで、ヒントを修復して、または用紙入れの蓋を弾き出す。</string>
+
+
+</resources>
